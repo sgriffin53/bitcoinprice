@@ -14,7 +14,7 @@ Final: 2022-05-21 $34,227.86
 
 This is one of the results and the code can be modified to compute others as well
 
-## How To Use
+## Usage
 
 You need to download the bitcoin csv file from https://coinmetrics.io/community-network-data/ and put it in the same folder as the script.
 
